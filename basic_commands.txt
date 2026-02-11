@@ -1,0 +1,6 @@
+pwd
+mkdir
+cp
+mv
+ls -l
+cal seq
