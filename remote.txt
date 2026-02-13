@@ -1,3 +1,4 @@
 Welocme User -main branch update
 Welcome user -feature branch implementation
 
+Search feature added
